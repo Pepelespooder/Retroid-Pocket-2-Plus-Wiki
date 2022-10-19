@@ -16,8 +16,10 @@ Title|Genre|Developer|
 [Breksta's Cat](https://notimplementedlife.itch.io/brekstascat)|Puzzle|[NotImplementedLife](https://notimplementedlife.itch.io/)
 [Cookies Bakery](https://leafthief.itch.io/cookies-bakery)|Simulation|[leafthief](https://leafthief.itch.io/)
 [Crate Place](https://reachcoding.eu/crate-place)|Puzzle|[reachCoding](https://reachcoding.eu/)
+[Cryohazard](https://burst-error.itch.io/cryohazard)|Adventure|[burst_error](https://burst-error.itch.io/)
 [Dangan GB](https://snorpung.itch.io/dangan-gb)|Shoot 'em Up|[snorpung](https://snorpung.itch.io/)
 [Deadeus](https://izma.itch.io/deadeus)|Adventure|[izma](https://izma.itch.io/)
+[Deep Dungeon](https://lazydevs.itch.io/deep-dungeon)|Role Playing|[Lazy Dev Games](https://lazydevs.itch.io)
 [Deep Forest](https://small.itch.io/deep-forest)|Puzzle|[Kevin Trepanier](https://small.itch.io/)
 [Do I Pass?](https://taylormccue.itch.io/do-i-pass)|Visual Novel|[Taylor McCue](https://taylormccue.itch.io/)
 [Don't Forget About Me](https://suitntie22.itch.io/dont-forget-about-me)|Action RPG|[suitntie22](https://suitntie22.itch.io/)
@@ -29,6 +31,7 @@ Title|Genre|Developer|
 [LURK](https://anildemir.itch.io/lurk)|Action|[Anil Demir](https://anildemir.itch.io/)
 [Make Way](https://minihamsterproductions.itch.io/make-way)|Adventure|[Mini Hamster Productions](https://minihamsterproductions.itch.io/)
 [Midterm Moments](https://toadstoolpicnic.itch.io/midterm-moments)|Visual Novel|[Toadstoolpicnic](https://toadstoolpicnic.itch.io/)
+[Murder Mansion](https://jan-schneider.itch.io/murder-mansion)|Puzzle|[Jan Schneider](https://jan-schneider.itch.io/)
 [Rubik](https://notimplementedlife.itch.io/rubik)|Puzzle|[NotImplementedLife](https://notimplementedlife.itch.io/)
 [Sam Mallard – The Case of the Missing Swan](https://snorpung.itch.io/sam-mallard-gb)|Adventure|[snorpung](https://snorpung.itch.io/)
 [Sherlock: A Study in Scarlet](https://lankgod.itch.io/sherlock-a-study-in-scarlet)|Adventure|[lankgod](https://lankgod.itch.io/)
@@ -49,6 +52,7 @@ Title|Genre|Developer|
 :----|:----|:--------|
 [Opossum Country](https://benjelter.itch.io/opossum-country)|Adventure|[BenJelter](https://benjelter.itch.io/)
 [Piecrust](https://pdroms.de/files/nintendo-gameboy-gb-gameboycolor-gbc/pie-crust-v1-0)|Puzzle|Jarvik7
+[Pine Creek](https://carmelo-electronics.itch.io/pine-creek)|Adventure|Carmelo Electronics(https://incube8games.com/blogs/games/pine-creek)
 [Postie](https://invertedhat.itch.io/postie)|Platformer|[invertedHat](https://invertedhat.itch.io/)
 [Ruby & Rusty Save The Crows](https://maxoakland.itch.io/ruby-rusty-save-the-crows)|Platformer|[Max Oakland](https://maxoakland.itch.io/)
 [Tobu Tobu Girl Deluxe](https://tangramgames.dk/tobutobugirldx/)|Platformer|[Tangram Games](https://tangramgames.dk/)
